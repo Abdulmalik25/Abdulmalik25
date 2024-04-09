@@ -21,10 +21,8 @@ Data Analyst
 ### Data visualization.
 <img height="50" width="50" src="https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png" />       <img height="50" width="50" src="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png" />
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
-
-
+### Libraries I am Familiar with
+<img height="50" width="50" src="https://img.icons8.com/?size=48&id=aR9CXyMagKIS&format=png"/>  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png"/> <img height="50" width="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/> <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMatplotlib_icon.svg&psig=AOvVaw2Ckb_H4GQ4Tj6JKJOPbLqk&ust=1712762183725000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjc8s62tYUDFQAAAAAdAAAAABAE"/> <img height="50" src="https://en.m.wikipedia.org/wiki/File:Scikit_learn_logo_small.svg" /> 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
