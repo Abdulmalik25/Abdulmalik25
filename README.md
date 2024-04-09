@@ -1,16 +1,16 @@
-## Hi there 👋 It's me Hareesh
+## Hi there 👋 It's me Malik
 
-Software Engineer @ Zoho Corporation
+Data Analyst
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDQ0Ymx5cXc5c2ZzeWJwOGZmMHR1andwZnJ0Mm5jeXhhMnR4aXA3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about Tech
+- 🌱 I’m currently learning Data Engineering
+- 👯 I’m looking to collaborate on Data Analysis/ Business Analysis
+- 🤔 I can derive meaningfull conclusions from Data to empower business.
+- 💬 Reach to me if you want to uncover insights from your Data.
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Japanese.
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdulmalik2001/)
+- 😄 Pronouns: Data Nerd
+- ⚡ Fun fact: I can make Data speak.
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
 
