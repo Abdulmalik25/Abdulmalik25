@@ -12,6 +12,7 @@ Data Analyst
 - 😄 Pronouns: Data Nerd
 - ⚡ Fun fact: I can make Data speak.
 
+## Tools I Use
 ### Data Loading, cleaning and creating reports.
  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=117561&format=png" />     <img height="50" width="50" src="https://img.icons8.com/?size=80&id=1Jl2zpR0qXAw&format=png" />    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 
