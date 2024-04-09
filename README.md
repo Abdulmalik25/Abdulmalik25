@@ -25,7 +25,7 @@ Data Analyst
 <img height="50" width="50" src="https://img.icons8.com/?size=48&id=aR9CXyMagKIS&format=png"/>  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png"/> <img height="50" width="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/>  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> 
 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulmalik25&theme=dark&show_icons=true&&hide=issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulmalik25&show_icons=true&theme=radical)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
