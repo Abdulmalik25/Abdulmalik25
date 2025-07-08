@@ -79,10 +79,8 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 
 
 ---
+<h5>
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?color=003CF7&lines=Thanks+For+Visiting+!%E2%9C%8C%F0%9F%8F%BD;Have+a+Beautiful+Day%E2%9C%A8" />
+</h5>
 
-
-
-
-![Abdulmalik25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulmalik25&show_icons=true&theme=radical)
-
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdulmalik25&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Abdul Malik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulmalik25&show_icons=true&theme=radical)
