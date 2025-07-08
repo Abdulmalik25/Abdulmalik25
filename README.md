@@ -80,8 +80,7 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 
 ---
 <h5>
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?color=003CF7&lines=Thanks+For+Visiting+!%E2%9C%8C%F0%9F%8F%BD;Have+a+Beautiful+Day%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=003CF7&center=true&vCenter=true&width=435&lines=Thanks+For+Visiting+!✌🏽;Have+a+Beautiful+Day✨" alt="Thanks Typing SVG" />
 </h5>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Abdul+Malik.;Data+%26+Product+Analyst+from+India.;Making+data+work+for+products+🚀" alt="Typing SVG" />
 
