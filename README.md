@@ -4,10 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/demo/?duration=3000&pause=300&color=F70000&background=FFFE8100&lines=Hi!+There+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Abdul+Malik++%F0%9F%99%82;Data+%26+Product+Analyst;Good+to+See+you!+%F0%9F%A4%9D" />
 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmalik2001/)  [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/abumalik2592)) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdul.malikite@gmail.com)](mailto:abdul.malikite@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmalik2001/)  [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/abumalik2592) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdul.malikite@gmail.com)](mailto:abdul.malikite@gmail.com) 
 
 
-<img align="right" src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/data-science-giphy.gif" width="400" height="340">
+<img align="right" src="https://github.com/user-attachments/assets/ebef3193-ebb0-4526-aad0-0215fd376e86" width="400" height="340">
+
 
 <h3>
 
