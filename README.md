@@ -58,28 +58,24 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 ---
 
 ### 🗃️ Databases & Querying  
-<img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="55" height="55" />
-<img height="40" src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="55" height="55" />
+<img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="55" height="55" /> <img height="40" src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="55" height="55" />
 
 
 ---
 
 ### 📊 Data Visualization  
-<img height="40" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />
-<img height="40" src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" />
+<img height="40" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="55" height="55" /><img height="40" src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="55" height="55" />
 
 ---
 
 ### 📚 Python Libraries  
-<img height="40" src="https://img.icons8.com/ios/50/pandas.png" alt="Pandas" />
-<img height="40" src="https://img.icons8.com/ios-filled/50/numPy.png" alt="NumPy" />
-<img height="40" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" />
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55" /><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" /><img height="40" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="55" height="55"/><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="55" height="55" />
 
 ---
 
 ### 🧠 Currently Exploring 
-<img height="40" src="https://img.icons8.com/ios-filled/50/google-analytics.png" alt="Google Analytics" />
+<img height="40" src="https://img.icons8.com/color/48/google-analytics.png" alt="Google Analytics"  width="55" height="55"/>
+
 
 ---
 
