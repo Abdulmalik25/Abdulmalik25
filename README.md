@@ -1,18 +1,34 @@
-## Hi there 👋 It's me Malik
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=pravesh-agarwal&label=Profile+Visitors‎&style=for-the-badge&abbreviated=true&color=blueviolet">
 
-Data Analyst
-<img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDQ0Ymx5cXc5c2ZzeWJwOGZmMHR1andwZnJ0Mm5jeXhhMnR4aXA3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">            
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?duration=3000&pause=300&color=F70000&background=FFFE8100&lines=Hi!+There+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Abdul+Malik++%F0%9F%99%82;Data+%26+Product+Analyst;Good+to+See+you!+%F0%9F%A4%9D" />
+</h1>
 
-- 🌱 I’m currently learning Data Engineering
-- 👯 I’m looking to collaborate on Data Analysis/ Business Analysis
-- 🤔 I can derive meaningful conclusions from Data to empower business.
-- 💬 Reach to me if you want to uncover insights from your Data.
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo-gmail&logoColor=white" />](mailto:abumalik2592@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdulmalik2001/)
-- 😄 Pronouns: Data Nerd
-- ⚡ Fun fact: I can make Data speak.
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://codebasics.io/portfolio/Pravesh-Agarwal) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravesh-agarwal27/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Pravesh-Agarwal) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Pravesh-Agarwal/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pravesh_agarwal) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:praveshagarwal80@gmail.com)](mailto:praveshagarwal80@gmail.com) 
 
-## Tools I Use
+
+<img align="right" src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/data-science-giphy.gif" width="400" height="340">
+
+<h3>
+Hi, I’m Pravesh Agarwal, Data Analyst @ABB & Ex Merchant Marine from India 🇮🇳
+</h3>
+
+- 📊 Passionate about transforming raw data into actionable insights.
+
+- 🌱 Currently enhancing my **Power Apps** and **Power Automate** skills.
+
+- 💡 Skilled in crafting reports that don't just show numbers, but actually help you understand what they mean.
+
+- 🚀 Constantly seeking opportunities to solve real-world problems with data, one dashboard at a time.
+
+- 💬 Feel free to ask me about Data Analysis or My Journey.
+
+- ⚡ Fun fact - A **Marine Engineer** turned **IT Professional**
+
+<br>
+
+## 💻 Languages and Tools:
 ### Data Loading, cleaning and creating reports.
  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=117561&format=png" />     <img height="50" width="50" src="https://img.icons8.com/?size=80&id=1Jl2zpR0qXAw&format=png" />    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 
