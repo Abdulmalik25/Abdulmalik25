@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmalik2001/)  [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/abumalik2592) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdul.malikite@gmail.com)](mailto:abdul.malikite@gmail.com) 
 
 
-<img align="right" src="https://github.com/user-attachments/assets/ebef3193-ebb0-4526-aad0-0215fd376e86" width="400" height="340">![data-science-giphy](https://github.com/user-attachments/assets/ebef3193-ebb0-4526-aad0-0215fd376e86)
+<img align="right" ![data-science-giphy](https://github.com/user-attachments/assets/ebef3193-ebb0-4526-aad0-0215fd376e86)
 
 
 <h3>
