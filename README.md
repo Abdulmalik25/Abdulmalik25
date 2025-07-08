@@ -46,18 +46,44 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 
 <br>
 
-## 💻 Languages and Tools:
-### Data Loading, cleaning and creating reports.
- <img height="50" width="50" src="https://img.icons8.com/?size=48&id=117561&format=png" />     <img height="50" width="50" src="https://img.icons8.com/?size=80&id=1Jl2zpR0qXAw&format=png" />    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+## 💻 Languages & Tools
 
-### Databases.
-<img height="50" width="50" src="https://img.icons8.com/?size=48&id=yAk24Bd8TOKS&format=png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+---
 
-### Data visualization.
-<img height="50" width="50" src="https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png" />       <img height="50" width="50" src="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png" />
+### 🧹 Data Cleaning, Analysis & Reporting  
+<img height="40" src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
+<img height="40" src="https://img.icons8.com/external-flat-juicy-fish/60/external-excel-social-media-flat-flat-juicy-fish.png" alt="Excel" />
+<img height="40" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />
+<img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
 
-### Libraries I am Familiar with
-<img height="50" width="50" src="https://img.icons8.com/?size=48&id=aR9CXyMagKIS&format=png"/>  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png"/> <img height="50" width="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/>  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> 
+---
+
+### 🗃️ Databases & Querying  
+<img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+<img height="40" src="https://img.icons8.com/ios/50/sql.png" alt="SQL" />
+
+---
+
+### 📊 Data Visualization  
+<img height="40" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />
+<img height="40" src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" />
+
+---
+
+### 📚 Python Libraries  
+<img height="40" src="https://img.icons8.com/ios/50/pandas.png" alt="Pandas" />
+<img height="40" src="https://img.icons8.com/ios-filled/50/numPy.png" alt="NumPy" />
+<img height="40" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" />
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" />
+
+---
+
+### 🧠 Currently Exploring 
+<img height="40" src="https://img.icons8.com/ios-filled/50/google-analytics.png" alt="Google Analytics" />
+
+---
+
+
 
 
 ![Abdulmalik25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulmalik25&show_icons=true&theme=radical)
