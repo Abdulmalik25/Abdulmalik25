@@ -1,7 +1,5 @@
-<p align="right">
-
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?duration=3000&pause=300&color=F70000&background=FFFE8100&lines=Hi!+There+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Abdul+Malik++%F0%9F%99%82;Data+%26+Product+Analyst;Good+to+See+you!+%F0%9F%A4%9D" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Abdul+Malik+%F0%9F%99%82;Product+%26+Data+Analyst;Good+to+see+you+here+%F0%9F%A4%9D" alt="Typing SVG" />
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmalik2001/)  [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/abumalik2592) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdul.malikite@gmail.com)](mailto:abdul.malikite@gmail.com) 
