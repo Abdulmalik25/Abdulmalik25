@@ -4,30 +4,45 @@
     <img src="https://readme-typing-svg.herokuapp.com/demo/?duration=3000&pause=300&color=F70000&background=FFFE8100&lines=Hi!+There+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Abdul+Malik++%F0%9F%99%82;Data+%26+Product+Analyst;Good+to+See+you!+%F0%9F%A4%9D" />
 </h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://codebasics.io/portfolio/Pravesh-Agarwal) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravesh-agarwal27/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Pravesh-Agarwal) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Pravesh-Agarwal/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pravesh_agarwal) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:praveshagarwal80@gmail.com)](mailto:praveshagarwal80@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmalik2001/)  [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/abumalik2592)) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdul.malikite@gmail.com)](mailto:abdul.malikite@gmail.com) 
 
 
 <img align="right" src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/data-science-giphy.gif" width="400" height="340">
 
 <h3>
-Hi, I'm Abdul Malik , Data Analyst @Arcadia , Serving notice Period - Available to Join immediately
-    
-📊 I make data speak — with dashboards, insights, and product-focused thinking.
 
-🧠 Product & Data Analyst with 1.5+ years of experience solving business problems with SQL, Power BI, and Python.
 
-🚀 Specialized in improving customer experiences and product flows with data-driven decisions.
+### 👋 Hi, I'm Abdul Malik
 
-🛠️ Tools I use daily: Power BI, SQL, Python (Pandas, NumPy), Excel, and sometimes Tableau.
+**Data Analyst @ Arcadia** | **Serving Notice Period – Available to Join Immediately**  
+**Product-Focused | SQL & BI Expert | Dashboard Storyteller**
 
-📦 My projects span across SaaS, OTT, e-commerce, onboarding, and retail analytics.
+---
 
-🧩 I love breaking down messy datasets and finding what truly matters for business and product teams.
+🔹 **Who I Am**  
+Product & Data Analyst with 1.5+ years of experience transforming raw data into business value.  
+I help SaaS and digital teams understand users, optimize flows, and improve decision-making with data.
 
-🎯 Always learning — currently building stronger product intuition through market research, churn analysis, and user behavior metrics.
+🔹 **What I Do Best**  
+- Translate user behavior into product insights  
+- Design impactful dashboards and KPI frameworks  
+- Drive business improvements using SQL, Python, and BI tools  
+- Work across teams – product, ops, engineering – to align data with outcomes
 
-⚡ Fun fact: I once studied Biomedical Engineering — now I help digital products breathe with data!
+🔹 **Tools I Use Daily**  
+`Power BI` | `SQL` | `Python (Pandas, NumPy)` | `Excel` | `Tableau (sometimes)`
 
+🔹 **Domains I've Worked In**  
+SaaS · OTT · E-commerce · Onboarding Analytics · Retail Campaigns · Finance · Healthcare · 
+
+🔹 **Currently Exploring**  
+ Always learning — currently building stronger product intuition through . market research · churn analysis · user behavior metrics 
+
+---
+⚡ **Fun Fact**  
+I started as a Biomedical Engineer — now I help digital products breathe using data.
+
+📬 Let's connect or explore my projects below!
 
 <br>
 
