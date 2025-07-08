@@ -34,8 +34,8 @@ I help SaaS and digital teams understand users, optimize flows, and improve deci
 🔹 **Domains I've Worked In**  
 SaaS · OTT · E-commerce · Onboarding Analytics · Retail Campaigns · Finance · Healthcare · 
 
-🔹 **Currently Exploring**  
- Always learning — currently building stronger product intuition through . market research · churn analysis · user behavior metrics 
+🔹 **Always learning**  
+ currently building stronger product intuition through . market research · churn analysis · user behavior metrics 
 
 ---
 ⚡ **Fun Fact**  
