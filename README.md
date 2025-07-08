@@ -51,9 +51,7 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 ---
 
 ### 🧹 Data Cleaning, Analysis & Reporting  
-<img height="40" src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
-<img height="40" src="https://img.icons8.com/external-flat-juicy-fish/60/external-excel-social-media-flat-flat-juicy-fish.png" alt="Excel" />
-<img height="40" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />
+<img height="40" src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="55" height="55"/> <img height="40" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />
 <img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
 
 ---
