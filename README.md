@@ -80,7 +80,7 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 
 ---
 <h5>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=003CF7&center=true&vCenter=true&width=435&lines=Thanks+For+Visiting+!✌🏽;Have+a+Beautiful+Day✨" alt="Thanks Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=003CF7&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+!✌🏽;Have+a+Beautiful+Day✨" alt="Thanks Typing SVG" />
 </h5>
 
 
