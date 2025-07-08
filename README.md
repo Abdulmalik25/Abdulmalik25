@@ -6,7 +6,8 @@
 
 
 
-<img align="right" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif" width="400" height="340">
+<img align="right" src="https://github.com/user-attachments/assets/02fa32ea-85b2-4d07-abd7-b3281529248f" width="400" height="340">
+
 
 
 <h3>
