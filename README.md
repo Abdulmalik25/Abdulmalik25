@@ -6,7 +6,7 @@
 
 
 
-<img align="right" src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/data-science-giphy.gif" width="400" height="340">
+<img align="right" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif" width="400" height="340">
 
 
 <h3>
