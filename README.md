@@ -1,5 +1,4 @@
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=pravesh-agarwal&label=Profile+Visitors‎&style=for-the-badge&abbreviated=true&color=blueviolet">
 
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/demo/?duration=3000&pause=300&color=F70000&background=FFFE8100&lines=Hi!+There+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Abdul+Malik++%F0%9F%99%82;Data+%26+Product+Analyst;Good+to+See+you!+%F0%9F%A4%9D" />
@@ -11,20 +10,24 @@
 <img align="right" src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/data-science-giphy.gif" width="400" height="340">
 
 <h3>
-Hi, I’m Pravesh Agarwal, Data Analyst @ABB & Ex Merchant Marine from India 🇮🇳
-</h3>
+Hi, I'm Abdul Malik , Data Analyst @Arcadia , Serving notice Period - Available to Join immediately
+    
+📊 I make data speak — with dashboards, insights, and product-focused thinking.
 
-- 📊 Passionate about transforming raw data into actionable insights.
+🧠 Product & Data Analyst with 1.5+ years of experience solving business problems with SQL, Power BI, and Python.
 
-- 🌱 Currently enhancing my **Power Apps** and **Power Automate** skills.
+🚀 Specialized in improving customer experiences and product flows with data-driven decisions.
 
-- 💡 Skilled in crafting reports that don't just show numbers, but actually help you understand what they mean.
+🛠️ Tools I use daily: Power BI, SQL, Python (Pandas, NumPy), Excel, and sometimes Tableau.
 
-- 🚀 Constantly seeking opportunities to solve real-world problems with data, one dashboard at a time.
+📦 My projects span across SaaS, OTT, e-commerce, onboarding, and retail analytics.
 
-- 💬 Feel free to ask me about Data Analysis or My Journey.
+🧩 I love breaking down messy datasets and finding what truly matters for business and product teams.
 
-- ⚡ Fun fact - A **Marine Engineer** turned **IT Professional**
+🎯 Always learning — currently building stronger product intuition through market research, churn analysis, and user behavior metrics.
+
+⚡ Fun fact: I once studied Biomedical Engineering — now I help digital products breathe with data!
+
 
 <br>
 
