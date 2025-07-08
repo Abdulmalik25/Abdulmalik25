@@ -74,7 +74,8 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 ---
 
 ### 🧠 Currently Exploring 
-<img height="40" src="https://img.icons8.com/color/48/google-analytics.png" alt="Google Analytics"  width="55" height="55"/>
+<img height="40" src="https://img.icons8.com/color/48/google-analytics.png" alt="Google Analytics"  width="55" height="55"/> <img height="40" src="https://img.icons8.com/color/48/google-ads.png" alt="Google Ads Transparency Center" width="55" height="55" /><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg" alt="Meta Ads Library" width="55" height="55" />
+
 
 
 ---
