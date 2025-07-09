@@ -80,20 +80,21 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 
 ### 🏆 Awards & Certifications
 
-- 🥇 ![Arcadia](https://github.com/user-attachments/assets/87c50683-6bd0-4745-85d6-acb781c4dbfe)**Exceptional Performance Award — Arcadia (2024)** [🔗 View Certificate](https://example.com/arcadia-award)  
+- 🥇 <img src="https://github.com/user-attachments/assets/87c50683-6bd0-4745-85d6-acb781c4dbfe" width="20" align="top"/> **Exceptional Performance Award — Arcadia (2024)** [View Certificate](https://example.com/arcadia-award)  
   • Recognized for delivering high-impact analytical solutions and cross-functional collaboration during the first year.
 
--  ![unnamed](https://github.com/user-attachments/assets/eee26082-73f3-45ac-90e1-4343f53bf420)**Data Analytics Certification — Great Learning (Mar 2024)** [🔗 View Certificate](https://example.com/data-analytics)  
+- <img src="https://github.com/user-attachments/assets/eee26082-73f3-45ac-90e1-4343f53bf420" width="20" align="top"/> **Data Analytics Certification — Great Learning (Mar 2024)** [View Certificate](https://example.com/data-analytics)  
   • Practical training in Excel, SQL, Power BI, and Python to perform full-cycle data analysis.
 
--  ![unnamed](https://github.com/user-attachments/assets/eee26082-73f3-45ac-90e1-4343f53bf420)**Power BI: Data Visualization & Storytelling — Great Learning (Jan 2024)** [🔗 View Certificate](https://example.com/powerbi-dashboard)  
+- <img src="https://github.com/user-attachments/assets/eee26082-73f3-45ac-90e1-4343f53bf420" width="20" align="top"/> **Power BI: Data Visualization & Storytelling — Great Learning (Jan 2024)** [View Certificate](https://example.com/powerbi-dashboard)  
   • Built interactive dashboards using DAX, Power Query, and data modeling to drive business insights.
 
-- <img src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank" width="30" height="30" align="top"/> **SQL (Advanced) — HackerRank (Feb 2024)** [🔗 View Certificate](https://www.hackerrank.com/certificates/your-certificate-id)  
+- <img src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000" width="20" align="top" alt="HackerRank"/> **SQL (Advanced) — HackerRank (Feb 2024)** [View Certificate](https://www.hackerrank.com/certificates/your-certificate-id)  
   • Mastered advanced SQL including joins, subqueries, CTEs, and window functions for real-world scenarios.
 
-- ![unnamed](https://github.com/user-attachments/assets/eee26082-73f3-45ac-90e1-4343f53bf420)**Statistical Learning — Great Learning (Feb 2024)** [🔗 View Certificate](https://example.com/statistics)  
+- <img src="https://github.com/user-attachments/assets/eee26082-73f3-45ac-90e1-4343f53bf420" width="20" align="top"/> **Statistical Learning — Great Learning (Feb 2024)** [View Certificate](https://example.com/statistics)  
   • Applied statistical techniques to uncover trends, interpret patterns, and support data-driven decision-making.
+
 
 
 ---
