@@ -89,7 +89,7 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 - 📈 **Power BI: Data Visualization & Storytelling — Great Learning (Jan 2024)** [🔗 View Certificate](https://example.com/powerbi-dashboard)  
   • Built interactive dashboards using DAX, Power Query, and data modeling to drive business insights.
 
-- 🧮 **SQL (Advanced) — HackerRank (Feb 2024)** [🔗 View Certificate](https://www.hackerrank.com/certificates/your-certificate-id)  
+- 🧮 ### • <img src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank" width="30" height="30" align="top"/> **SQL (Advanced) — HackerRank (Feb 2024)** [🔗 View Certificate](https://www.hackerrank.com/certificates/your-certificate-id)  
   • Mastered advanced SQL including joins, subqueries, CTEs, and window functions for real-world scenarios.
 
 - 📉 **Statistical Learning — Great Learning (Feb 2024)** [🔗 View Certificate](https://example.com/statistics)  
