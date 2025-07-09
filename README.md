@@ -84,7 +84,7 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="30" align="top"/> **Excel Projects:**
 <p> <a href="https://github.com/Abdulmalik25/Bicycle_sales_analysis_Excel--Project"> <img src="https://github.com/Abdulmalik25/Bicycle_sales_analysis_Excel--Project/assets/153974173/53f4ce47-8623-49d5-b45e-943bb40e4e71" width="30%" alt="Bicycle Sales"> </a> <a href="https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project"> <img src="https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/254a979e-7f48-4192-9ba2-49098fdad940" width="30%" alt="Auto Price 1"> <img src="https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/0d67b18f-d58a-4f15-99da-9df5ceccf3ae" width="30%" alt="Auto Price 2"> </a> </p>
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="30" align="top"/> **Python Projects:**
-<p> <a href="https://github.com/Abdulmalik25/Google_App_Store_python-project"> <img src="https://img.icons8.com/?size=100&id=25808&format=png&color=000000" width="30%" alt="Google App Store (icon only)"> </a> <a href="https://github.com/Abdulmalik25/Exploratory_Data_analysis_on_Youtube_Data--Python-project"> <img src="https://img.icons8.com/?size=100&id=37326&format=png&color=000000" width="30%" alt="YouTube EDA (icon only)"> </a> </p>
+
 
 ### 🏆 Awards & Certifications
 
