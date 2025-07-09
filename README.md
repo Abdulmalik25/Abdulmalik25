@@ -77,6 +77,22 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 ### 🧠 Currently Exploring 
 <img height="40" src="https://img.icons8.com/color/48/google-analytics.png" alt="Google Analytics"  width="55" height="55"/> <img height="40" src="https://img.icons8.com/color/48/google-ads.png" alt="Google Ads Transparency Center" width="55" height="55" />
 
+### 🏆 Awards & Certifications
+
+- 🥇 **Exceptional Performance Award** — *Arcadia* (2024)   [Link]([https://www.hackerrank.com/certificates/1870361e6945](https://drive.google.com/file/d/1wN6gLep-MMEG7Fbw2te7BmCpYVHYcSLv/view))
+  Recognized for delivering high-impact analytical solutions and cross-functional collaboration during the first year. 
+
+- 📊 **Data Analytics Certification** — *Great Learning* (Mar 2024)  [Link]([https://www.hackerrank.com/certificates/1870361e6945](https://drive.google.com/file/d/1Awc7RwQoSm332cvgy_8LDm9TrlHQByP8/view))
+  Practical training in Excel, SQL, Power BI, and Python to perform full-cycle data analysis.
+
+- 📈 **Power BI: Data Visualization & Storytelling** — *Great Learning* (Jan 2024)  [Link]([https://www.hackerrank.com/certificates/1870361e6945](https://www.mygreatlearning.com/certificate/HXQKIRAX))
+  Built interactive dashboards using DAX, Power Query, and data modeling to drive business insights.
+
+- 🧮 **SQL (Advanced)** — *HackerRank* (Feb 2024)  [Link]([https://www.hackerrank.com/certificates/1870361e6945](https://www.hackerrank.com/certificates/4ca73270d4ec))
+  Mastered advanced SQL including joins, subqueries, CTEs, and window functions for real-world scenarios.
+
+- 📉 **Statistical Learning** — *Great Learning* (Feb 2024)  [Link]([https://www.hackerrank.com/certificates/1870361e6945](https://drive.google.com/file/d/1dolY7eMO4BOxJXE07J0gviASFnZWm6vO/view))
+  Applied statistical techniques to uncover trends, interpret patterns, and support data-driven decision-making.
 
 
 ---
