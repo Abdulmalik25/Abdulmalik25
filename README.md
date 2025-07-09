@@ -80,7 +80,7 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 
 ### 🏆 Awards & Certifications
 
-- 🥇 <img src="https://github.com/user-attachments/assets/87c50683-6bd0-4745-85d6-acb781c4dbfe" width="20" align="top"/> **Exceptional Performance Award — Arcadia (2024)** [View Certificate](https://example.com/arcadia-award)  
+- <img src="https://github.com/user-attachments/assets/87c50683-6bd0-4745-85d6-acb781c4dbfe" width="20" align="top"/> **Exceptional Performance Award — Arcadia (2024)** [View Certificate](https://example.com/arcadia-award)  
   • Recognized for delivering high-impact analytical solutions and cross-functional collaboration during the first year.
 
 - <img src="https://github.com/user-attachments/assets/eee26082-73f3-45ac-90e1-4343f53bf420" width="20" align="top"/> **Data Analytics Certification — Great Learning (Mar 2024)** [View Certificate](https://example.com/data-analytics)  
