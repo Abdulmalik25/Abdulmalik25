@@ -85,7 +85,15 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 Analyze YouTube channel performance using SQL — uncover insights on subscribers, revenue, views, and engagement using only clean, structured queries.  
 <img width="1364" height="767" alt="image" src="https://github.com/user-attachments/assets/2b66752a-2729-4263-8eee-6d6c65ce093c" />  
 
-### 2. *(Coming Soon)*  
+### 2. [OTT Platform Analytics – LioCinema & Jotstar Merger](https://github.com/Abdulmalik25/OTT-Platform-Analytics-LioCinema-Jotstar-Merger/blob/main/README.md)  
+A bold, data-driven story of how two OTT giants united to reshape digital entertainment in India.  
+Built in Power BI, this analysis explores user behavior, content strategy, and revenue growth after the merger.
+
+<p>
+  <img width="49%" src="https://github.com/user-attachments/assets/0335b813-f2ed-49a3-bdea-37ea0dfa1dcc" alt="LioCinema Dashboard" />
+  <img width="49%" src="https://github.com/user-attachments/assets/bd4f77c5-2988-4136-909f-d59d5ccec01c" alt="Jotstar Insights" />
+</p>
+  
 ### 3. *(Coming Soon)*  
 ### 4. *(Coming Soon)*  
 ### 5. *(Coming Soon)*  
