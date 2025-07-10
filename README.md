@@ -83,7 +83,7 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 
 ### 1. [YouTube SQL Analysis](https://github.com/Abdulmalik25/Youtube_SQL_analysis/blob/main/README.md)  
 Analyze YouTube channel performance using SQL — uncover insights on subscribers, revenue, views, and engagement using only clean, structured queries.  
-<img width="1199" height="652" alt="image" src="https://github.com/user-attachments/assets/2b66752a-2729-4263-8eee-6d6c65ce093c" />  
+<img width="1119" height="600" alt="image" src="https://github.com/user-attachments/assets/2b66752a-2729-4263-8eee-6d6c65ce093c" />  
 
 ### 2. [OTT Platform Analytics – LioCinema & Jotstar Merger](https://github.com/Abdulmalik25/OTT-Platform-Analytics-LioCinema-Jotstar-Merger/blob/main/README.md)  
 A bold, data-driven story of how two OTT giants united to reshape digital entertainment in India.  
