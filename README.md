@@ -79,12 +79,57 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 ### 🧠 Currently Exploring 
 <img height="40" src="https://img.icons8.com/color/48/google-analytics.png" alt="Google Analytics"  width="55" height="55"/> <img height="40" src="https://img.icons8.com/color/48/google-ads.png" alt="Google Ads Transparency Center" width="55" height="55" />
 
+## 📌 Featured Projects
 
-<img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="SQL" width="30" align="top"/> **SQL Projects:**
-<p> <a href="https://github.com/Abdulmalik25/IPL-Bidding-Blitz-Dive-into-the-Action-_SQL-project"> <img src="https://github.com/Abdulmalik25/IPL-Bidding-Blitz-Dive-into-the-Action-_SQL-project/assets/153974173/3885ede5-4b99-4963-ab0a-c3ac8099dc12" width="30%" alt="IPL Bidding Blitz"> </a> <a href="https://github.com/Abdulmalik25/Film_rental_Analysis_SQL-Project"> <img src="https://github.com/Abdulmalik25/Film_rental_Analysis_SQL-Project/assets/153974173/eb05ec54-786e-4f08-8e2f-ef8833ab093a" width="30%" alt="Film Rental"> </a> <a href="https://github.com/Abdulmalik25/Travego_Travelers_Sql--Project"> <img src="https://github.com/Abdulmalik25/Travego_Travelers_Sql--Project/assets/153974173/2dfad99a-e4fe-4bf1-8500-3451069a5cd5" width="30%" alt="Travego Travelers"> </a> </p>
-<img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="30" align="top"/> **Excel Projects:**
-<p> <a href="https://github.com/Abdulmalik25/Bicycle_sales_analysis_Excel--Project"> <img src="https://github.com/Abdulmalik25/Bicycle_sales_analysis_Excel--Project/assets/153974173/53f4ce47-8623-49d5-b45e-943bb40e4e71" width="30%" alt="Bicycle Sales"> </a> <a href="https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project"> <img src="https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/254a979e-7f48-4192-9ba2-49098fdad940" width="30%" alt="Auto Price 1"> <img src="https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/0d67b18f-d58a-4f15-99da-9df5ceccf3ae" width="30%" alt="Auto Price 2"> </a> </p>
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="30" align="top"/> **Python Projects:**
+### 1. [YouTube SQL Analysis](https://github.com/Abdulmalik25/Youtube_SQL_analysis/blob/main/README.md)  
+Analyze YouTube channel performance using SQL — uncover insights on subscribers, revenue, views, and engagement using only clean, structured queries.  
+<img width="1364" height="767" alt="image" src="https://github.com/user-attachments/assets/2b66752a-2729-4263-8eee-6d6c65ce093c" />  
+
+### 2. *(Coming Soon)*  
+### 3. *(Coming Soon)*  
+### 4. *(Coming Soon)*  
+### 5. *(Coming Soon)*  
+
+---
+
+## 🧠 Explore More Projects
+
+### <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="SQL" width="22" align="top"/> SQL Projects
+
+#### 🎯 [IPL Bidding Blitz](https://github.com/Abdulmalik25/IPL-Bidding-Blitz-Dive-into-the-Action-_SQL-project)  
+SQL-based analysis of IPL auction data to explore player bidding patterns, team strategies, and pricing insights.  
+<img src="https://github.com/Abdulmalik25/IPL-Bidding-Blitz-Dive-into-the-Action-_SQL-project/assets/153974173/3885ede5-4b99-4963-ab0a-c3ac8099dc12" width="30%" alt="IPL Bidding Blitz" />
+
+#### 🎬 [Film Rental Analysis](https://github.com/Abdulmalik25/Film_rental_Analysis_SQL-Project)  
+Data-driven exploration of film rentals — genres, customer behavior, and late return patterns using SQL queries.  
+<img src="https://github.com/Abdulmalik25/Film_rental_Analysis_SQL-Project/assets/153974173/eb05ec54-786e-4f08-8e2f-ef8833ab093a" width="30%" alt="Film Rental" />
+
+#### 🧳 [Travego Travelers](https://github.com/Abdulmalik25/Travego_Travelers_Sql--Project)  
+Travel agency dataset analyzed with SQL to uncover seasonal trends, customer demographics, and destination performance.  
+<img src="https://github.com/Abdulmalik25/Travego_Travelers_Sql--Project/assets/153974173/2dfad99a-e4fe-4bf1-8500-3451069a5cd5" width="30%" alt="Travego Travelers" />
+
+---
+
+### <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="22" align="top"/> Excel Projects
+
+#### 🚴‍♂️ [Bicycle Sales Analysis](https://github.com/Abdulmalik25/Bicycle_sales_analysis_Excel--Project)  
+Sales trends, regional performance, and segment-based analysis of bicycle sales using Excel dashboards.  
+<img src="https://github.com/Abdulmalik25/Bicycle_sales_analysis_Excel--Project/assets/153974173/53f4ce47-8623-49d5-b45e-943bb40e4e71" width="30%" alt="Bicycle Sales" />
+
+#### 🚗 [Automobile Price Analysis](https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project)  
+Explore car pricing trends, brand distribution, and feature correlation through Excel visualizations.  
+<img src="https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/254a979e-7f48-4192-9ba2-49098fdad940" width="30%" alt="Auto Price 1" />
+<img src="https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/0d67b18f-d58a-4f15-99da-9df5ceccf3ae" width="30%" alt="Auto Price 2" />
+
+---
+
+### <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="22" align="top"/> Python Projects
+
+*Coming soon...*
+
+---
+
+
 
 
 ### 🏆 Awards & Certifications
