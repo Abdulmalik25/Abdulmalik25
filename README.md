@@ -90,8 +90,8 @@ A bold, data-driven story of how two OTT giants united to reshape digital entert
 Built in Power BI, this analysis explores user behavior, content strategy, and revenue growth after the merger.
 
 <p>
-  <img src="https://github.com/user-attachments/assets/0335b813-f2ed-49a3-bdea-37ea0dfa1dcc" alt="LioCinema Dashboard" width="49%" height="625px" />
-  <img src="https://github.com/user-attachments/assets/bd4f77c5-2988-4136-909f-d59d5ccec01c" alt="Jotstar Insights" width="49%" height="625px" />
+  <img src="https://github.com/user-attachments/assets/0335b813-f2ed-49a3-bdea-37ea0dfa1dcc" alt="LioCinema Dashboard" width="49%" height="725px" />
+  <img src="https://github.com/user-attachments/assets/bd4f77c5-2988-4136-909f-d59d5ccec01c" alt="Jotstar Insights" width="49%" height="725px" />
 </p>
 
   
