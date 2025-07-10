@@ -97,6 +97,10 @@ Analyze YouTube channel performance using SQL — uncover insights on subscriber
 
 ### <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="SQL" width="22" align="top"/> SQL Projects
 
+#### 🧳 [Travego Travelers](https://github.com/Abdulmalik25/Travego_Travelers_Sql--Project)  
+Travel agency dataset analyzed with SQL to uncover seasonal trends, customer demographics, and destination performance.  
+<img src="https://github.com/Abdulmalik25/Travego_Travelers_Sql--Project/assets/153974173/2dfad99a-e4fe-4bf1-8500-3451069a5cd5" width="30%" alt="Travego Travelers" />
+
 #### 🎯 [IPL Bidding Blitz](https://github.com/Abdulmalik25/IPL-Bidding-Blitz-Dive-into-the-Action-_SQL-project)  
 SQL-based analysis of IPL auction data to explore player bidding patterns, team strategies, and pricing insights.  
 <img src="https://github.com/Abdulmalik25/IPL-Bidding-Blitz-Dive-into-the-Action-_SQL-project/assets/153974173/3885ede5-4b99-4963-ab0a-c3ac8099dc12" width="30%" alt="IPL Bidding Blitz" />
@@ -104,10 +108,6 @@ SQL-based analysis of IPL auction data to explore player bidding patterns, team 
 #### 🎬 [Film Rental Analysis](https://github.com/Abdulmalik25/Film_rental_Analysis_SQL-Project)  
 Data-driven exploration of film rentals — genres, customer behavior, and late return patterns using SQL queries.  
 <img src="https://github.com/Abdulmalik25/Film_rental_Analysis_SQL-Project/assets/153974173/eb05ec54-786e-4f08-8e2f-ef8833ab093a" width="30%" alt="Film Rental" />
-
-#### 🧳 [Travego Travelers](https://github.com/Abdulmalik25/Travego_Travelers_Sql--Project)  
-Travel agency dataset analyzed with SQL to uncover seasonal trends, customer demographics, and destination performance.  
-<img src="https://github.com/Abdulmalik25/Travego_Travelers_Sql--Project/assets/153974173/2dfad99a-e4fe-4bf1-8500-3451069a5cd5" width="30%" alt="Travego Travelers" />
 
 ---
 
