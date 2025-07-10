@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Abdul+Malik+%F0%9F%99%82;Product+%26+Data+Analyst;Good+to+see+you+here+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Abdul+Malik+%F0%9F%99%82;Data+%26+Product+Analyst;Good+to+see+you+here+%F0%9F%A4%9D" alt="Typing SVG" />
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmalik2001/)  [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/abumalik2592) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdul.malikite@gmail.com)](mailto:abdul.malikite@gmail.com)  [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/abdul.malik3418/vizzes)
@@ -78,6 +78,7 @@ I started as a Biomedical Engineer — now I help digital products breathe using
 
 ### 🧠 Currently Exploring 
 <img height="40" src="https://img.icons8.com/color/48/google-analytics.png" alt="Google Analytics"  width="55" height="55"/> <img height="40" src="https://img.icons8.com/color/48/google-ads.png" alt="Google Ads Transparency Center" width="55" height="55" />
+
 
 <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="SQL" width="30" align="top"/> **SQL Projects:**
 <p> <a href="https://github.com/Abdulmalik25/IPL-Bidding-Blitz-Dive-into-the-Action-_SQL-project"> <img src="https://github.com/Abdulmalik25/IPL-Bidding-Blitz-Dive-into-the-Action-_SQL-project/assets/153974173/3885ede5-4b99-4963-ab0a-c3ac8099dc12" width="30%" alt="IPL Bidding Blitz"> </a> <a href="https://github.com/Abdulmalik25/Film_rental_Analysis_SQL-Project"> <img src="https://github.com/Abdulmalik25/Film_rental_Analysis_SQL-Project/assets/153974173/eb05ec54-786e-4f08-8e2f-ef8833ab093a" width="30%" alt="Film Rental"> </a> <a href="https://github.com/Abdulmalik25/Travego_Travelers_Sql--Project"> <img src="https://github.com/Abdulmalik25/Travego_Travelers_Sql--Project/assets/153974173/2dfad99a-e4fe-4bf1-8500-3451069a5cd5" width="30%" alt="Travego Travelers"> </a> </p>
