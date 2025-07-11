@@ -95,7 +95,12 @@ Built in Power BI, this analysis explores user behavior, content strategy, and r
 </p>
 
   
-### 3. *(Coming Soon)*  
+### 3. [Atliq Retail – Sales & Promotional Analysis](https://github.com/Abdulmalik25/Atliq_Retail_Promotional_Analysis/blob/main/README.md)  
+Atliq Mart, a leading retail chain in India, launched festive campaigns in their 50+ stores across different metropolitan cities in India during Diwali and Sankranti festive seasons.  
+This Power BI + SQL project analyzes campaign performance, revealing high-impact promotions, regional buying patterns, and data-driven strategies for revenue growth.
+
+<img src="https://github.com/user-attachments/assets/38f293cc-0071-4dec-8fb9-982263f3ff30" width="100%" />
+
 ### 4. *(Coming Soon)*  
 ### 5. *(Coming Soon)*  
 
