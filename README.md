@@ -150,9 +150,24 @@ Explore car pricing trends, brand distribution, and feature correlation through 
 
 ### <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="22" align="top"/> Python Projects
 
-#### [HoneY_production_visualization_Python](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project)
-Uncovered the secrets of honey production in the U.S. using Python!
-<img src="https://github.com/user-attachments/assets/69ec0623-976e-442c-8b4b-434f0a2f6053" width="30%" alt="hONEY" />
+#### [🐝 Honey Production Visualization (Python)](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project)
+<p>
+  <img src="https://github.com/user-attachments/assets/69ec0623-976e-442c-8b4b-434f0a2f6053" width="30%" align="left" style="margin-right: 15px;" />
+  Uncovered the secrets of U.S. honey production using Python data wrangling and visualization.  
+  Analyzed trends over the years, identified declining production patterns, and built compelling plots using matplotlib & seaborn.
+</p>
+
+### [Google Play Store Data Insights](https://github.com/Abdulmalik25/Google_Play_Store_python-project)  
+Explored and cleaned a dataset of 10K Android apps to uncover patterns behind successful mobile apps.  
+Performed EDA and preprocessing for future predictive modeling using Python.
+
+<img src="https://github.com/user-attachments/assets/da88a665-4883-4ed5-8b8b-4503bb9a2b6c" width="100%" alt="Play Store Project Image" />
+
+
+
+
+
+
 
 
 ---
