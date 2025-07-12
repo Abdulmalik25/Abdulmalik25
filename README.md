@@ -157,12 +157,14 @@ Explore car pricing trends, brand distribution, and feature correlation through 
   Analyzed trends over the years, identified declining production patterns, and built compelling plots using matplotlib & seaborn.
 </p>
 
-### [Google Play Store Data Insights](https://github.com/Abdulmalik25/Google_Play_Store_python-project)  
-Explored and cleaned a dataset of 10K Android apps to uncover patterns behind successful mobile apps.  
-Performed EDA and preprocessing for future predictive modeling using Python.
+---
 
-<img src="https://github.com/user-attachments/assets/da88a665-4883-4ed5-8b8b-4503bb9a2b6c" width="100%" alt="Play Store Project Image" />
-
+#### [📱 Google Play Store Data Insights](https://github.com/Abdulmalik25/Google_Play_Store_python-project)
+<p>
+  <img src="https://github.com/user-attachments/assets/da88a665-4883-4ed5-8b8b-4503bb9a2b6c" width="30%" align="left" style="margin-right: 15px;" />
+  Explored and cleaned a dataset of 10K Android apps to uncover patterns behind successful mobile apps.  
+  Performed EDA and preprocessing for future predictive modeling using Python, focusing on installs, reviews, ratings, and app categories.
+</p>
 
 
 
