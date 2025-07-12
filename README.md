@@ -108,7 +108,7 @@ Analyze YouTube channel performance using SQL — uncover insights on subscriber
 ### 4. [Pima Indian Diabetes Prediction System](https://github.com/Abdulmalik25/Pima-Indian-Diabetes-Prediction-System)
 A real-time Streamlit web app trained by Machine Learning model that uses 8 clinical indicators to predict diabetes risk with high accuracy and engaging UI.  
 🔗 [Launch App](https://pima-indian-diabetes-prediction-system-ldmfgp4gvzrrqhzxgxsxjd.streamlit.app/) | [GitHub Repo](https://github.com/Abdulmalik25/Pima-Indian-Diabetes-Prediction-System)
-<img width="1491" height="913" alt="image" src="https://github.com/user-attachments/assets/a2f8142d-812c-48f5-84d2-fbddb2fd0ef4" />
+<img width="1050" height="450" alt="image" src="https://github.com/user-attachments/assets/a2f8142d-812c-48f5-84d2-fbddb2fd0ef4" />
 
 
 
