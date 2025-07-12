@@ -150,7 +150,10 @@ Explore car pricing trends, brand distribution, and feature correlation through 
 
 ### <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="22" align="top"/> Python Projects
 
-*Coming soon...*
+#### [HoneY_production_visualization_Python](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project)
+Uncovered the secrets of honey production in the U.S. using Python!
+<img src="https://github.com/user-attachments/assets/69ec0623-976e-442c-8b4b-434f0a2f6053" width="30%" alt="hONEY" />
+
 
 ---
 
