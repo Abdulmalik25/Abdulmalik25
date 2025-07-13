@@ -1,52 +1,62 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Abdul+Malik+%F0%9F%99%82;Data+%26+Product+Analyst;Good+to+see+you+here+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Abdul+Malik+%F0%9F%99%82;Data+Analyst+%7C+ML+%26+BI+Projects;Thanks+for+dropping+by!+%F0%9F%91%9D" alt="Typing SVG" />
 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmalik2001/)  [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/abumalik2592) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdul.malikite@gmail.com)](mailto:abdul.malikite@gmail.com)  [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/abdul.malik3418/vizzes)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmalik2001/)  
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/abumalik2592)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdul.malikite@gmail.com)](mailto:abdul.malikite@gmail.com)  
+[![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/abdul.malik3418/vizzes)
 
-
+---
 
 <img align="right" src="https://github.com/user-attachments/assets/ce09be7d-d1f4-4f5c-b171-eee2384b45e0" width="400" height="340">
 
-
-
-
-<h3>
-
-
-### 👋 Hi, I'm Abdul Malik
-
-**Data Analyst @ Arcadia** | **Serving Notice Period – Available to Join Immediately**  
-**Product-Focused | SQL & BI Expert | Dashboard Storyteller**
+### 👋 Hi, I'm Abdul Malik  
+**Data Analyst @ Arcadia** | *Serving Notice Period — Available to Join Immediately*  
+**Power BI • Python • SQL • Streamlit • Dashboard Storyteller**
 
 ---
 
-🔹 **Who I Am**  
-Product & Data Analyst with 1.5+ years of experience transforming raw data into business value.  
-I help SaaS and digital teams understand users, optimize flows, and improve decision-making with data.
-
-🔹 **What I Do Best**  
-- Translate user behavior into product insights  
-- Design impactful dashboards and KPI frameworks  
-- Drive business improvements using SQL, Python, and BI tools  
-- Work across teams – product, ops, engineering – to align data with outcomes
-
-🔹 **Tools I Use Daily**  
-`Power BI` | `SQL` | `Python (Pandas, NumPy)` | `Excel` | `Tableau (sometimes)`
-
-🔹 **Domains I've Worked In**  
-SaaS · OTT · E-commerce · Onboarding Analytics · Retail Campaigns · Finance · Healthcare · 
-
-🔹 **Always learning**  
- currently building stronger product intuition through . market research · churn analysis · user behavior metrics 
+### 🚀 Who I Am  
+Data Analyst with 1.5+ years of experience turning data into actionable insights.  
+I specialize in building dashboards, predictive models, and end-to-end reporting pipelines that help teams make smarter decisions.
 
 ---
-⚡ **Fun Fact**  
-I started as a Biomedical Engineer — now I help digital products breathe using data.
 
-📬 Let's connect or explore my projects below!
+### 🧰 What I Do Best  
+- Transform raw, unstructured data into impactful business insights using SQL, Python, and statistical techniques
+- Build production-ready dashboards in Power BI, Streamlit, and Tableau to drive data-backed decisions across operations, product, and marketing
+- Develop and evaluate machine learning models (Logistic Regression, KNN, XGBoost) with robust preprocessing, SMOTE balancing, and AUC-based validation
+- Lead cross-functional data initiatives, aligning insights with product onboarding, campaign performance, and behavioral analytics
+- Communicate complex findings clearly to both technical and non-technical stakeholders using visual storytelling and metric-driven narratives
 
-<br>
+
+---
+
+### 🧠 Tools & Tech  
+`SQL` · `Python (Pandas, NumPy, Seaborn)` · `Power BI` · `Streamlit` · `Excel` · `Tableau` · `Scikit-learn` · `SMOTE` · `Matplotlib`
+
+---
+
+### 📊 Domains I’ve Worked In  
+Healthcare · Finance · SaaS · Onboarding Analytics · Retail Campaigns · OTT Platforms
+
+---
+
+### 📌 Current Focus  
+- Improving ML deployment using Streamlit  
+- Strengthening product intuition through behavioral metrics  
+- A/B Testing · Churn Analysis · Funnel Diagnostics
+
+---
+
+### 💬 Let’s Connect  
+If you're looking for a results-driven analyst who builds real dashboards, ships real models, and documents it all transparently — you're in the right place.
+
+📬 Check out my work below 👇
+
+
+
 
 
 
