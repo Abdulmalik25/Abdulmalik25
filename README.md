@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Abdul+Malik+%F0%9F%99%82;Data+Analyst+%7C+ML+%26+BI+Projects;Thanks+for+dropping+by!+%F0%9F%91%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=550&lines=Hi,+I'm+Abdul+Malik+%F0%9F%99%82;I+turn+complex+data+into+clear+business+decisions+%F0%9F%93%88;Thanks+for+stopping+by!+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmalik2001/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/abumalik2592) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdul.malikite@gmail.com)](mailto:abdul.malikite@gmail.com) [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/abdul.malik3418/vizzes)
 
