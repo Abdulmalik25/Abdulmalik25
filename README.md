@@ -51,9 +51,6 @@ Healthcare · Finance  · Onboarding Analytics · Retail Campaigns · OTT Platfo
 ### 💬 Let’s Connect  
 If you're looking for a results-driven analyst who builds real dashboards, ships real models, and documents it all transparently — you're in the right place.
 
-📬 Check out my work below 👇
-
-
 
 
 
@@ -86,6 +83,10 @@ If you're looking for a results-driven analyst who builds real dashboards, ships
 
 ### 🧠 Currently Exploring 
 <img height="40" src="https://img.icons8.com/color/48/google-analytics.png" alt="Google Analytics"  width="55" height="55"/> <img height="40" src="https://img.icons8.com/color/48/google-ads.png" alt="Google Ads Transparency Center" width="55" height="55" />
+
+
+## 📬 Check out my work below 👇
+
 
 ## 📌 Featured Projects
 
