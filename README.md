@@ -213,6 +213,8 @@ Explore car pricing trends, brand distribution, and feature correlation through 
 </h5>
 
 ### 💬 Let’s Connect  
-If you're looking for a results-driven analyst who builds real dashboards, ships real models, and documents it all transparently — you're in the right place.
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmalik2001/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdul.malikite@gmail.com)](mailto:abdul.malikite@gmail.com)
+If you're looking for a results-driven analyst who builds real dashboards, uncover insights , make informed decisions and documents it all transparently — you're in the right place.
+<p>
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmalik2001/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdul.malikite@gmail.com)](mailto:abdul.malikite@gmail.com)
+<p>
