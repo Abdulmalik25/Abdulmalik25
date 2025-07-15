@@ -48,10 +48,6 @@ Healthcare · Finance  · Onboarding Analytics · Retail Campaigns · OTT Platfo
 
 ---
 
-### 💬 Let’s Connect  
-If you're looking for a results-driven analyst who builds real dashboards, ships real models, and documents it all transparently — you're in the right place.
-
-
 
 
 
@@ -216,4 +212,7 @@ Explore car pricing trends, brand distribution, and feature correlation through 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=003CF7&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+!✌🏽;Have+a+Beautiful+Day✨" alt="Thanks Typing SVG" />
 </h5>
 
-
+### 💬 Let’s Connect  
+If you're looking for a results-driven analyst who builds real dashboards, ships real models, and documents it all transparently — you're in the right place.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmalik2001/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdul.malikite@gmail.com)](mailto:abdul.malikite@gmail.com)
