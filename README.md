@@ -10,7 +10,7 @@
 <img align="right" src="https://github.com/user-attachments/assets/ce09be7d-d1f4-4f5c-b171-eee2384b45e0" width="400" height="340">
 
 ### 👋 Hi, I'm Abdul Malik  
-**Data Analyst @ Arcadia** | *Serving Notice Period — Available to Join Immediately*  
+**Data Analyst @ Arcadia** | *Immediate Joiner*  
 **Power BI • Python • SQL • Streamlit • Dashboard Storyteller**
 
 ---
